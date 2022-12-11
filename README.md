@@ -1,7 +1,7 @@
 # Desenvolvedor Front-end
 
 ## :wave: Bem-vindo
-### :dart: Meu objetivo é ser um solucionador de problemas utilizando a Tecnologia.
+### :dart: Meu objetivo é ser um solucionador de problemas utilizando Tecnologia.
 
 🚀 Fundamentos sólidos em: HTML5 | CSS3 | JavaScript | Bootstrap | Git | Linux.
 <br>
